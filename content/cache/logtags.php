@@ -1,1 +1,0 @@
-<?php exit;//a:3:{i:3;a:0:{}i:2;a:0:{}i:1;a:1:{i:0;a:3:{s:6:"tagurl";s:18:"%E9%BB%98%E8%AE%A4";s:7:"tagname";s:6:"默认";s:3:"tid";i:1;}}}

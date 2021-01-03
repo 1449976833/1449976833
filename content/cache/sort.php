@@ -1,1 +1,0 @@
-<?php exit;//a:1:{i:1;a:9:{s:6:"lognum";s:1:"2";s:8:"sortname";s:6:"默认";s:11:"description";s:0:"";s:5:"alias";s:7:"default";s:3:"sid";i:1;s:5:"taxis";i:1;s:3:"pid";i:0;s:8:"template";s:0:"";s:8:"children";a:0:{}}}
